@@ -1,0 +1,30 @@
+/* Comment.css */
+.comment-item {
+    padding: 0.5rem 1rem;
+    border-top: 1px solid #e1e8ed;
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #e1e8ed;
+    background-color: #fcfcfc71;
+    border-radius: 10px;
+
+    
+
+  }
+  
+  .comment-content {
+    padding-bottom: 0.6rem;
+    padding-top: 0.6rem;
+  }
+  
+  .comment-username {
+    font-style: italic;
+    color: grey;
+  }
+  
+  .comment-date {
+    font-size: 0.7rem;
+    color: #6f7a84;
+  }
+  

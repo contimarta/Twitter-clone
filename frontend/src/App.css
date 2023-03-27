@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+ 
+}
+
+.container {
+  width: 47rem;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 4rem;
+  box-sizing: border-box;
+}
+
+
+button[type="submit"] {
+  background-color: rgb(31 155 240);
+  color: #fff;
+  border: none;
+  border-radius: 1.25rem;
+  padding: 0.625rem;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: medium;
+ 
+
+}
+
+
+button[type="submit"]:hover {
+  background-color: rgb(4, 140, 225);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3125rem;
+  font-size: 0.75rem;
+}
+form input {
+  padding: 0.125rem;
+  border: 0.0625rem solid #d3d3d3;
+  border-radius: 0.25rem;
+}
+
+.no-peeps{
+  text-align: center;
+  font-size: large;
+ 
+}
+@media screen and (max-width: 767px) {
+  header {
+    flex-direction: column;
+  }}

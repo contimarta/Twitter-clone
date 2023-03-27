@@ -1,0 +1,23 @@
+.new-comment-form {
+    display: flex;
+    gap: 0.3125rem;
+    margin-top: 1rem;
+
+    
+  }
+  
+  .new-comment-input {
+    flex-grow: 1;
+    padding: 0.7rem;
+    border: 0.07rem solid rgb(225, 225, 225);
+    border-radius: 0.25rem;
+  }
+  
+
+  
+.new-comment-form .new-comment-button {
+    max-width: 100%;
+    margin-bottom: 1rem;
+    margin-left: auto;  
+  }
+  

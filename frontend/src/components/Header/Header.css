@@ -1,0 +1,26 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(31 155 240);
+  padding: 0.7rem 3rem;
+  color: #fff;
+  
+}
+
+header .authentication{
+  display: flex;
+  align-items: baseline;
+  margin-right: 3rem;
+}
+
+
+header .authentication .welcome-text{
+  display: flex;
+  margin-right: 3rem;
+}
+
+
+header h1 {
+  margin: 0;
+}

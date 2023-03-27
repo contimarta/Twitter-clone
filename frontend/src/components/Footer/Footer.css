@@ -1,0 +1,10 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(31 155 240);
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  
