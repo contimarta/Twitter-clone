@@ -1,7 +1,5 @@
 Twitter Clone (Chitter) App 
 =================
-<img width="790" alt="Screenshot 2023-06-05 at 11 00 10" src="https://github.com/contimarta/Twitter-clone/assets/120254646/94d1f6ac-923d-4b3a-9c7b-850a06a58f5e">
-<img width="798" alt="Screenshot 2023-06-05 at 10 59 37" src="https://github.com/contimarta/Twitter-clone/assets/120254646/bb963278-d589-4eca-938e-ed4e52889052">
 
 ### How to run the App:
 0. Go to https://glittering-starship-2d6852.netlify.app/ and start peeping!🚀 I have deployed the backend using Render, with the deployed API URL: https://my-chitter-app.onrender.com . I've then used Netlify to deploy the frontend of the application.
